@@ -1,4 +1,5 @@
 // SCRIPT COPIATO AL MIO VECCHIO ESERCIZIO INTRODUCIAMO CAMPO MINATO
+// SCRIPT
 
 // iniettiamo su html gli square gia' esistenti in css square
 
@@ -139,3 +140,12 @@ function createSquareHard() {
 
         }
     });
+
+
+
+
+
+
+
+
+
